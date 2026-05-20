@@ -1,2 +1,38 @@
-# Netflix-Data-Analysis-Cleaning-Analysis-and-Visualization-Ms-Excel
-An end-to-end data analytics project focused on cleaning, analyzing, and visualizing Netflix content data using Excel. The project explores content trends, genre popularity, country-wise distribution, top directors, ratings, and growth patterns through interactive charts and dashboards.
+# Netflix Data Analysis: Cleaning, Analysis, and Visualization
+## Introduction
+Welcome to the Netflix Data Analysis project, a comprehensive exploration of Netflix's content catalog. In this project, i meticulously examined Netflix's raw data, employed rigorous analytical process to ensure accuracy and reliability. From data extraction, cleaning to visualization, every step I've performed with precision and attention to detail.
+
+### Author
+Author: Shital Sarode
+
+### Technologies Used
+Excel
+### Data Source
+The raw data for this project was sourced from Kaggle, a reputable platform for datasets:
+
+[Netflix Data on Kaggle](url)
+#### Data Analysis Steps
+My approach involves a series of meticulous steps to derive meaningful insights from the data:
+
+Data Extraction: The raw dataset is extracted from the Kaggle repository as a csv file i import to excel spreadsheets.
+Data Cleaning: Applied Rigorous cleaning procedures, addressing issues like duplicates, spelling errors, and inconsistent formats.
+Exploratory Data Analysis (EDA): Employed EDA techniques to understand the data, identify patterns, and unveil trends. This includes statistical calculations, visualizations, and correlation analyses.
+Data Preparation: Prepared The dataset for visualization, involving the creation of new variables and necessary data filtering.
+Data Visualization: Utilized Excel to craft visually appealing charts and graphs that succinctly present the analysis findings.
+### Visualizations
+This project showcases a diverse range of visualizations, each offering unique insights into Netflix's content catalog:
+
+Content Type Distribution (Pie Chart): Illustrates the percentage split between movies and TV shows on Netflix.
+Country Distribution (Map Chart): Maps out the distribution of Netflix content across different countries.
+Content Growth Over Time (Line Chart): Depicts the yearly growth in new content additions to Netflix.
+Popular Directors (Bar Chart): Highlights the top 10 directors with the most content on Netflix.
+Popular Genres (Bar Chart): Showcases the top 10 most popular genres among Netflix viewers.
+Top Rated Contents (Bar Chart): Lists the top 10 highest-rated contents on Netflix.
+Oldest Contents (Table): Displays the ten oldest pieces of content available on Netflix.
+Movie vs TV Show Content Over Time (Line Chart): Compares the trends in movie and TV show additions over the years.
+Release Years with Most Content (Line Chart): Reveals the years with the highest volume of content releases on Netflix.
+### Usage
+To explore this project, simply open the Excel spreadsheet provided. The visualizations are accompanied by concise explanations in the report, aiding in the interpretation of the insights they offer.
+
+#### License
+This project operates under the MIT License, ensuring its openness and accessibility for further exploration and utilization.
